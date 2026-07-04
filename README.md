@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **building cloud native applications**
 
-- 🌱 I’m currently learning **Java, AWS, Azure, Kubernetes & DevOps**
+- 🌱 I’m currently learning **Java, Springboot, Python, Javascript, React.js, Docker, AWS, Azure, Kubernetes & DevOps**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
 - 🤝 I’m looking for help with **full stack, backend development & devOps**
 
-- 💬 Ask me about **Java, Spring, AWS, Azure, Kubernetes & DevOps**
+- 💬 Ask me about **Java, Springboot, Python, Javascript, React.js, Docker, AWS, Azure, Kubernetes & DevOps**
 
 - 📫 How to reach me **preetisidling@gmail.com**
 
