@@ -1,18 +1,51 @@
 <h1 align="center">Hi 👋, I'm Preeti</h1>
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
-- 🔭 I’m currently working on **building cloud native applications**
+- 💼 12+ years of experience in software development and enterprise applications
 
-- 🌱 I’m currently learning **Java, Springboot, Python, Docker, AWS, Azure, Kubernetes & DevOps**
+- ☕ Strong experience with Java, Spring Boot, Microservices and REST APIs
 
-- 👯 I’m looking to collaborate on **cloud native projects**
+- 🔄 Hands-on experience building event-driven systems using Apache Kafka
+  
+- ☁️ Experienced with AWS, Azure and GCP
 
-- 🤝 I’m looking for help with **full stack, backend development & devOps**
+- 🖥️ Full-stack experience with React.js and JavaScript
 
-- 💬 Ask me about **Java, Springboot, Python, Docker, AWS, Azure, Kubernetes & DevOps**
+- 🚀 Experience with Docker, Kubernetes and CI/CD
+  
+- 🔧 Passionate about distributed systems, system design, performance optimization and production troubleshooting
+  
+- 🌱 Continuously learning and exploring AI, cloud-native technologies and modern software architecture
+  
+- 🤝 Open to collaborating on Java, backend, cloud-native and full-stack projects
 
-- 📫 How to reach me **preetisidling@gmail.com**
+<h3 align="center"> 🚀 What I Work On</h3>
+  
+I enjoy designing and building scalable backend services and distributed applications, particularly using Java and Spring Boot.
+Some areas I've worked on include:
+
+- Microservices-based applications
+
+- Event-driven architectures with Kafka
+
+- Cloud-native applications
+  
+- Multi-cloud environments
+  
+- Observability and monitoring solutions
+  
+- Production support and troubleshooting
+
+- API design and integration
+
+- Performance and scalability improvements
+
+<h3 align="center"> 🤝 Let's Connect</h3>
+I'm always interested in connecting with developers, architects and engineers working on interesting Java, backend, cloud and AI projects.
+  
+📫 Email: preetisidling@gmail.com
+
 
 <p align="left"><img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/1ff29a74-d7df-4f46-b7dc-e596cd2998a0" /></p>
 <p align="right">
